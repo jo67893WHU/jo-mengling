@@ -35,19 +35,19 @@ summary: Research on the realistic and comprehensive identification of citywide
   type of research.
 url_dataset: ""
 url_project: ""
-publication_short: In *Cities*
+publication_short: ""
 url_source: ""
 url_video: ""
 author_notes: []
 doi: https://doi.org/10.1016/j.cities.2020.103067
-publication: In *Cities*
+publication: Cities
 featured: true
 tags: []
 image:
   filename: featured.jpg
-date: 2021-03-01T00:00:00Z
+date: 2021-03-01T00:00:00.000Z
 url_slides: ""
-publishDate: 2022-08-06T00:00:00Z
+publishDate: 2022-08-06T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
