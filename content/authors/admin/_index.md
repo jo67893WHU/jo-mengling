@@ -38,5 +38,3 @@ highlight_name: true
 I am Mengling Qiao (乔梦玲), currently a Postdoctoral Fellowship in [HKUST VisLab](http://vis.cse.ust.hk/index.html), at the Department of Computer Science and Engineering, The Hong Kong University of Science and Technology (HKUST), working with [Prof. Huamin QU](http://huamin.org/).
 
 I have broad research interests lying in urban geography, human mobility, GeoHealth, and socio-spatial computing. Currently, I am focusing on the modeling the spatiotemporal impacts of mobility-based factors on the spread of COVID-19, and the air quality for smart cities.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
