@@ -35,7 +35,7 @@ abstract: "Fine-grained subjective partitioning of urban space using human
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: subjective-division-of-urban-space.jpg
   focal_point: Smart
   preview_only: false
 date: 2022-08-05T17:04:13.436Z
