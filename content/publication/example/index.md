@@ -1,38 +1,42 @@
 ---
-title: 'An example conference paper'
+title: 'A realistic and multilevel measurement of spatial patterns of economic segregation in a city range based on human activities'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
+  - Yandong Wang
+  - Shanmei Wu
+  - Xiaokang Fu
+  - Yanyan Gu
+  - Mingxuan Dou
 
 # Author notes (optional)
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+  - ''
+  - 'Corresponding author'
 
-date: '2013-07-01T00:00:00Z'
-doi: ''
+date: '2021-03-01T00:00:00Z'
+doi: 'https://doi.org/10.1016/j.cities.2020.103067'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2022-08-06T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['1']
+publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In *Cities*
+publication_short: In *Cities*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Research on the realistic and comprehensive identification of citywide spatial patterns of economic segregation is valuable for the sustainable development of cities. The consideration of human activities in segregation research inspires us to develop an alternative method to contribute to this type of research. In our method, we emphasize the combination of collective activity spaces (CASs) and spatial economic data, both of which are obtained from dynamic human activities. We first reveal the realistic use of urban spaces from human mobility patterns to generate multilevel CASs as basic analytical units. Then, we use a type of realistic economic data generated from human activities to measure the segregation level of each CAS. We realize this measurement by tailoring a segregation index, named the Term Frequency-Inverse Document Frequency-Index of Concentration at the Extremes-based (TFIDF-ICE-based) segregation index, for our economic data. Through these methods, we can uncover citywide multilevel spatial patterns of economic segregation realistically and comprehensively. Using Beijing and Wuhan as cases, we demonstrate and discuss the applicability and value of our method.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Research on the realistic and comprehensive identification of citywide spatial patterns of economic segregation is valuable for the sustainable development of cities. The consideration of human activities in segregation research inspires us to develop an alternative method to contribute to this type of research.
 
 tags: []
 
@@ -44,7 +48,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://www.sciencedirect.com/science/article/pii/S0264275120314153'
 url_code: ''
 url_dataset: ''
 url_poster: ''
