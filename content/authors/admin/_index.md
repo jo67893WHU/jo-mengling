@@ -13,16 +13,13 @@ social:
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://twitter.com/jo_mengling
   - icon: github
     icon_pack: fab
     link: https://github.com/jo67893WHU
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/%E6%A2%A6%E7%8E%B2-%E4%B9%94-8b3a191bb/
 organizations:
   - name: The Hong Kong university of Science and Technology (HKUST)
     url: https://hkust.edu.hk/
