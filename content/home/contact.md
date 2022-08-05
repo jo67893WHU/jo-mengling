@@ -28,7 +28,8 @@ content:
   email: csemengling@ust.hk
   # phone: 888 888 88 88
   address:
-    - street: Clear Water Bay, Kowloon, Hong Kong
+    street: Clear Water Bay, Kowloon, Hong Kong
+  
   directions: Lift 25-26, Dept.CSE, HKUST
   # office_hours:
     # - 'Monday 10:00 to 13:00'
