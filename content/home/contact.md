@@ -31,7 +31,7 @@ content:
     street: Clear Water Bay, Kowloon, Hong Kong
   directions: Lift 25-26, Dept.CSE, HKUST
   # office_hours:
-    # - 'Monday 10:00 to 13:00'
+  # - 'Monday 10:00 to 13:00'
   #   - 'Wednesday 09:00 to 10:00'
   # appointment_url: 'https://calendly.com'
   # contact_links:
