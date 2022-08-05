@@ -33,7 +33,7 @@ abstract: "Fine-grained subjective partitioning of urban space using human
   from the hierarchical human activity networks are all outstanding contributors
   to the fine-grained subjective partitioning of urban spaces."
 draft: false
-featured: false
+featured: true
 image:
   filename: subjective-division-of-urban-space.jpg
   focal_point: Smart
