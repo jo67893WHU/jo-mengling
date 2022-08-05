@@ -29,15 +29,6 @@ content:
   # phone: 888 888 88 88
   address:
     street: Clear Water Bay, Kowloon, Hong Kong
-    
-    # city: Hong Kong
-    # country: China
-    # region: Hong Kong
-    # postcode: 'HKG'
-    # country_code: China
-  # coordinates:
-  #   latitude: '37.4275'
-  #   longitude: '-122.1697'
   directions: Lift 25-26, Dept.CSE, HKUST
   # office_hours:
   #   - 'Monday 10:00 to 13:00'
