@@ -25,7 +25,7 @@ feature:
     icon_pack: fas
     name: Statistics
   - description: 10%
-    icon: ArcGIS_logo
+    # icon: ArcGIS_logo
     icon_pack: fas
     name: ArcGIS
 Uncomment to use emoji icons.
