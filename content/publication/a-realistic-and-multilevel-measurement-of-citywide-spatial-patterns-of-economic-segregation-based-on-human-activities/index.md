@@ -4,7 +4,7 @@ title: A realistic and multilevel measurement of citywide spatial patterns of
 publication_types:
   - "2"
 authors:
-  - Mengling Qiao
+  - admin
   - Yandong Wang
   - Shanmei Wu
   - Xiaokang Fu
