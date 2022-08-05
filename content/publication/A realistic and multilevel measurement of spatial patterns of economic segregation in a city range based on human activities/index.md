@@ -39,7 +39,7 @@ publication_short: ""
 url_source: ""
 url_video: ""
 author_notes: []
-doi: https://doi.org/10.1016/j.cities.2020.103067
+doi: 10.1016/j.cities.2020.103067
 publication: Cities
 featured: false
 tags: []
