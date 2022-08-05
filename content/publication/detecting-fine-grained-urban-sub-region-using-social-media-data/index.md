@@ -9,7 +9,8 @@ authors:
   - admin
   - Shiwei Shao
   - Hui Liu
-publication: Geospatial Information[地理空间信息]
+publication: Geospatial Information
+publication_short: 地理空间信息
 abstract: The fine detection of human activity sub-areas of the city is an
   effective basis for realizing the appropriate city resource allocation and
   scientific management. In this paper, we proposed a method of finely dividing
