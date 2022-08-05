@@ -34,6 +34,6 @@ featured: true
 image:
   filename: spatial-patterns-of-economic-segregation.jpg
   focal_point: Smart
-  preview_only: false
+  preview_only: true
 date: 2022-08-05T17:33:23.047Z
 ---
