@@ -33,7 +33,12 @@ draft: false
 featured: true
 image:
   filename: spatial-patterns-of-economic-segregation.jpg
-  focal_point: Smart
+  focal_point: Top
   preview_only: false
+summary: "Research on the realistic and comprehensive identification of citywide
+  spatial patterns of economic segregation is valuable for the sustainable
+  development of cities. The consideration of human activities in segregation
+  research inspires us to develop an alternative method to contribute to this
+  type of research. "
 date: 2022-08-05T17:33:23.047Z
 ---
