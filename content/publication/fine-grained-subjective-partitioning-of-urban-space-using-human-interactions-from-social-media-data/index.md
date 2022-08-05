@@ -4,7 +4,7 @@ title: Fine-Grained Subjective Partitioning of Urban Space Using Human
 publication_types:
   - "2"
 authors:
-  - Mengling Qiao
+  - admin
   - Yandong Wang
   - Shanmei Wu
   - An Luo
