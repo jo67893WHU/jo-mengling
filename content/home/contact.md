@@ -30,9 +30,9 @@ content:
   address:
     street: Clear Water Bay, Kowloon
     city: Hong Kong
+    country: China
     # region: Hong Kong
     # postcode: 'HKG'
-    country: China
     # country_code: China
   # coordinates:
   #   latitude: '37.4275'
