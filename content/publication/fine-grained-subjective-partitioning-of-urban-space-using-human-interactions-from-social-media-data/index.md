@@ -44,5 +44,5 @@ summary: "Fine-grained subjective partitioning of urban space using human
   strategies. This paper presents a new method for fine-grained subjective
   partitioning of urban space based on the combination of network analysis and
   human interactions from social media. "
-date: 2022-08-05T17:04:13.436Z
+date: 2019-04-16T17:59:00.000Z
 ---
