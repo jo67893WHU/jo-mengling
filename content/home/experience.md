@@ -23,18 +23,18 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Postdoc
-    company: Dept.CSE, HKUST
+    company: VisLab, Dept.CSE, HKUST
     company_url: ''
-    company_logo: org-x
+    company_logo: HKUST
     location: Hong Kong
     date_start: '2022-07'
     date_end: ''
     # description: Taught electronic engineering and researched semiconductor physics.
 
-  - title: Postdoct
+  - title: Postdoc
     company: Dept.GRM, CUHK
     company_url: ''
-    company_logo: org-gc
+    company_logo: CUHK
     location: Hong Kong
     date_start: '2021-06'
     date_end: '2022-07'
