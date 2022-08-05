@@ -29,6 +29,7 @@ content:
   # phone: 888 888 88 88
   address:
     street: Clear Water Bay, Kowloon, Hong Kong
+    
     # city: Hong Kong
     # country: China
     # region: Hong Kong
