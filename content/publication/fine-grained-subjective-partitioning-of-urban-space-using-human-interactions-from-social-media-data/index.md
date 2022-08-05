@@ -38,5 +38,11 @@ image:
   filename: subjective-division-of-urban-space.jpg
   focal_point: Smart
   preview_only: false
+summary: "Fine-grained subjective partitioning of urban space using human
+  activity flows reveals actual human activity spaces with high resolution,
+  which has great implications for the development and validation of planning
+  strategies. This paper presents a new method for fine-grained subjective
+  partitioning of urban space based on the combination of network analysis and
+  human interactions from social media. "
 date: 2022-08-05T17:04:13.436Z
 ---
