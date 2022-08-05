@@ -8,6 +8,7 @@ authors:
   - Mingxuan Dou
   - admin
 doi: 10.3390/ijgi7040130
+publication: ISPRS International Journal of Geo-Information
 publication_short: ISPRS Int. J. Geo-Inf
 abstract: "The spatial structures of cities have changed dramatically with rapid
   socio-economic development in ways that are not well understood. To support
