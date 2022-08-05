@@ -26,11 +26,11 @@ experience:
     company: Dept.CSE, HKUST
     company_url: ''
     company_logo: org-x
-    location: California
+    location: Hong Kong
     date_start: '2022-07'
     date_end: ''
     # description: Taught electronic engineering and researched semiconductor physics.
-    
+
   - title: Postdoct
     company: Dept.GRM, CUHK
     company_url: ''
