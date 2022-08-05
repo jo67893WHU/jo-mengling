@@ -27,7 +27,7 @@ experience:
     company_url: ''
     company_logo: HKUST
     location: Hong Kong
-    date_start: '2022-07'
+    date_start: '2022-07-27'
     date_end: ''
     # description: Taught electronic engineering and researched semiconductor physics.
 
@@ -36,8 +36,8 @@ experience:
     company_url: ''
     company_logo: CUHK
     location: Hong Kong
-    date_start: '2021-06'
-    date_end: '2022-07'
+    date_start: '2021-06-27'
+    date_end: '2022-07-26'
     description: |2-
         Studies include:
         
