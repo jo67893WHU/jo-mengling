@@ -7,7 +7,7 @@ authors:
   - Yandong Wang
   - Yanyan Gu
   - Shihai Dong
-  - Mengling Qiao
+  - admin
   - Yuejin Deng
 doi: 10.1016/j.cageo.2021.104893
 publication: Computers & Geosciences
