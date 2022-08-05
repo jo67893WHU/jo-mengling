@@ -41,7 +41,7 @@ url_video: ""
 author_notes: []
 doi: https://doi.org/10.1016/j.cities.2020.103067
 publication: Cities
-featured: true
+featured: false
 tags: []
 image:
   filename: featured.jpg
