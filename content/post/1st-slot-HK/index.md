@@ -25,7 +25,7 @@ featured: false
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
   caption: 'Are you David?'
-  focal_point: ''
+  focal_point: Smart
   placement: 2
   preview_only: false
 
@@ -41,7 +41,8 @@ tags:
 #   - Demo
 #   - 教程
 ---
-{{< figure src="/assets/media/post/airboat.jpg" title="The little white boat of Qing hao hhh" >}}
+
+{{< figure src="/post/airboat.jpg" title="The little white boat of Qing hao hhh" >}}
 
 <!-- 
 ## Overview
