@@ -32,7 +32,7 @@ organizations:
     url: https://hkust.edu.hk/
 education:
   courses:
-    - course: PhD in GIS
+    - course: MPhil-PhD in GIS
       institution: Wuhan University
       year: 2020
     - course: BSc in GIS
