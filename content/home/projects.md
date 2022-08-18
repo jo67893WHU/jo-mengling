@@ -3,7 +3,7 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: portfolio
 
-# This file represents a page section false hide projects.
+# This file represents a page section.
 headless: false
 
 # Order that this section appears on the page.
