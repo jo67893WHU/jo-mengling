@@ -34,7 +34,7 @@ experience:
   - title: Member
     company: Spatial Search People (SSP)
     company_url: 'https://luojiassp.github.io/'
-    company_logo: ssplogo.png
+    company_logo: ssplogo
     date_start: '2022-05-27'
     date_end: ''
     description: Spatial Search People (SSP) is a non-profit scientific community of scholars from around the world. Our current work mainly focuses on extracting and mining the sentiment of Chinese Weibo data.
