@@ -75,7 +75,7 @@ features:
     branch: master
   avatar:
     gravatar: false
-    avatar = "avatar_me.jpg"
+    avatarURL = "/content/authors/admin/avatar_me.jpg"
     shape: circle
   comment:
     provider: ''
