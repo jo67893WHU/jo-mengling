@@ -41,7 +41,8 @@ tags:
 #   - Demo
 #   - 教程
 ---
-![The little white boat of Qing hao hhh](/assets/media/post/airboat.jpg)
+{{< figure src="/assets/media/post/airboat.jpg" title="The little white boat of Qing hao hhh" >}}
+
 <!-- 
 ## Overview
 
