@@ -21,7 +21,7 @@ main:
     url: '#posts'
     weight: 40
   - name: Gallary
-    url: '#posts'
+    url: '#gallary'
     weight: 50
   # - name: Services
   #   url: '#accomplishments'
