@@ -7,7 +7,7 @@ interests:
   - Urban Geography
   - Human Mobility
   - GeoHealth
-  - Socio-spatial Computing
+  - Computational Social Science
 social:
   - icon: google-scholar
     icon_pack: ai
