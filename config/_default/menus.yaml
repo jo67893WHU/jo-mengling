@@ -20,8 +20,8 @@ main:
   - name: Post
     url: '#posts'
     weight: 40
-  - name: Gallary
-    url: '#gallary'
+  - name: Gallery
+    url: '#gallery'
     weight: 50
   # - name: Services
   #   url: '#accomplishments'

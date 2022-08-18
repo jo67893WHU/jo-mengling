@@ -27,7 +27,7 @@ image:
   caption: 'Are you David?'
   focal_point: Smart
   placement: 2
-  preview_only: false
+  preview_only: true
 
 authors:
   - admin
@@ -41,7 +41,7 @@ tags:
 #   - Demo
 #   - 教程
 ---
-
+{{< figure src="/post/David.jpg" title="Are you David?" >}}
 {{< figure src="/post/airboat.jpg" title="The little white boat of Qing hao hhh" >}}
 
 <!-- 
