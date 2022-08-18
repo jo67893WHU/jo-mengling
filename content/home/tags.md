@@ -3,7 +3,7 @@
 # Docs: https://wowchemy.com/docs/page-builder/
 widget: tag_cloud
 
-# This file represents a page section. false hide tags
+# This file represents a page section false hide tags.
 headless: false
 
 # Order that this section appears on the page.
