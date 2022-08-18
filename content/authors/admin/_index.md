@@ -18,9 +18,15 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/jo67893WHU
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/%E6%A2%A6%E7%8E%B2-%E4%B9%94-8b3a191bb/
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=RYAXOusAAAAJ&hl=zh-CN&oi=ao
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/my-orcid?orcid=0000-0002-6576-8411
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Qiao-Mengling
 organizations:
   - name: The Hong Kong university of Science and Technology (HKUST)
     url: https://hkust.edu.hk/
