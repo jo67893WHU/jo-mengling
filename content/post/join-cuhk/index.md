@@ -1,5 +1,5 @@
 ---
-title: Start to work at CUHK
+title: ✨Start to work at CUHK
 subtitle: null
 date: 2021-07-04T00:00:00Z
 summary: The 7-day mandatory home quarantine is finally over!
