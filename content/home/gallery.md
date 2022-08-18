@@ -16,7 +16,7 @@ content:
   # Filter on criteria
   filters:
     folders:
-      - gallary
+      - gallery
     tag: ''
     category: ''
     publication_type: ''
