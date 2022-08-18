@@ -9,15 +9,6 @@ interests:
   - GeoHealth
   - Socio-spatial Computing
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/jo_mengling
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/jo67893WHU
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=RYAXOusAAAAJ&hl=zh-CN&oi=ao
@@ -27,6 +18,15 @@ social:
   - icon: researchgate
     icon_pack: ai
     link: https://www.researchgate.net/profile/Qiao-Mengling
+  - icon: envelope
+    icon_pack: fas
+    link: /#contact
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/jo_mengling
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/jo67893WHU
 organizations:
   - name: The Hong Kong university of Science and Technology (HKUST)
     url: https://hkust.edu.hk/
