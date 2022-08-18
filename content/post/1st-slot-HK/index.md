@@ -41,7 +41,7 @@ tags:
 #   - Demo
 #   - 教程
 ---
-![](/static/media/airboat.jpg,"The little white boat of Qing hao hhh")
+![The little white boat of Qing hao hhh](/assets/media/post/airboat.jpg)
 <!-- 
 ## Overview
 
