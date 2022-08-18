@@ -42,7 +42,7 @@ tags:
 #   - 教程
 ---
 {{< figure src="/post/30.jpg" title="butcher knife hahaha" >}}
-{{< figure src="/post/cake.jpg" >}}
+{{< figure src="/post/cake.jpg" title="黑芝麻味的蛋糕打咩">}}
 
 <!-- 
 ## Overview
