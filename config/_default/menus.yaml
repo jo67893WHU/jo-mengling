@@ -20,9 +20,9 @@ main:
   - name: Post
     url: '#posts'
     weight: 40
-  - name: Gallery
-    url: '#gallery'
-    weight: 50
+  # - name: Gallery
+  #   url: '#gallery'
+  #   weight: 50
   # - name: Services
   #   url: '#accomplishments'
   #   weight: 30
