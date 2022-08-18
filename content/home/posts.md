@@ -34,5 +34,5 @@ content:
 design:
   # Choose a view for the listings:
   view: 2 
-  columns: '3'
+  columns: '2'
 ---
