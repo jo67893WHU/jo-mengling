@@ -24,16 +24,24 @@ date_format: Jan 2006
 experience:
   - title: Postdoc
     company: VisLab, Dept.CSE, HKUST
-    company_url: ''
+    company_url: 'https://cse.hkust.edu.hk/'
     company_logo: HKUST
     location: Hong Kong
     date_start: '2022-07-27'
     date_end: ''
     # description: Taught electronic engineering and researched semiconductor physics.
 
+  - title: Member
+    company: Spatial Search People (SSP)
+    company_url: 'https://luojiassp.github.io/'
+    company_logo: ssplogo.png
+    date_start: '2022-05-27'
+    date_end: ''
+    description: Spatial Search People (SSP) is a non-profit scientific community of scholars from around the world. Our current work mainly focuses on extracting and mining the sentiment of Chinese Weibo data.
+
   - title: Postdoc
     company: Dept.GRM, CUHK
-    company_url: ''
+    company_url: 'https://www.grm.cuhk.edu.hk/en/'
     company_logo: CUHK
     location: Hong Kong
     date_start: '2021-06-27'
