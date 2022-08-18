@@ -20,6 +20,9 @@ main:
   - name: News
     url: '#posts'
     weight: 40
+  - name: Gallary
+    url: '#posts'
+    weight: 50
   # - name: Services
   #   url: '#accomplishments'
   #   weight: 30
