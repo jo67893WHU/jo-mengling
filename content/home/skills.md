@@ -3,8 +3,8 @@ An instance of the Featurette widget.
 Documentation: https://wowchemy.com/docs/page-builder/
 widget: featurette
 
-# This file represents a page section.
-headless: false #隐藏skills
+# This file represents a page section. false隐藏skills
+headless: false
 
 # Order that this section appears on the page.
 weight: 30
