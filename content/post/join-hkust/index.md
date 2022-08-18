@@ -1,5 +1,5 @@
 ---
-title: ✨Start to work at HKUST
+title: ✨Start to work at HKUST✨
 subtitle: null
 date: 2022-07-27T00:00:00.000Z
 summary: Nice to meet you VisLab family!
