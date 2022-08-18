@@ -3,6 +3,8 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: portfolio
 
+# This represents hide projects
+active: hide
 # This file represents a page section.
 headless: false
 
