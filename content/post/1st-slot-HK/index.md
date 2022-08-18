@@ -4,7 +4,7 @@ title: Fly to Hong Kong
 subtitle: 
 
 # Summary for listings and search engines
-summary: an impressive sight on the plane.
+summary: impressive sights on the plane.
 
 # Link this post with a project
 projects: []
