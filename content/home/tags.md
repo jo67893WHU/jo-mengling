@@ -3,8 +3,8 @@
 # Docs: https://wowchemy.com/docs/page-builder/
 widget: tag_cloud
 
-# This file represents a page section.
-headless: false #隐藏tags
+# This file represents a page section. false隐藏tags
+headless: false
 
 # Order that this section appears on the page.
 weight: 120
