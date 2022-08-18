@@ -1,13 +1,13 @@
 ---
 title: Start to work at HKUST
 subtitle: null
-date: 2022-07-27T00:00:00Z
+date: 2022-07-27T00:00:00.000Z
 summary: Nice to meet you VisLab family!
 draft: false
-featured: false
+featured: true
 authors:
   - admin
-lastmod: 2022-07-27T10:00:00Z
+lastmod: 2022-07-27T10:00:00.000Z
 tags:
   - Work
 projects: []
