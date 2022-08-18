@@ -2,9 +2,11 @@
 # An instance of the Tag Cloud widget.
 # Docs: https://wowchemy.com/docs/page-builder/
 widget: tag_cloud
+# This represents hide tags
+active: hide
 
 # This file represents a page section, false means hide tags.
-headless: false
+headless: true
 
 # Order that this section appears on the page.
 weight: 120

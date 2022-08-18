@@ -2,9 +2,10 @@
 # An instance of the Featurette widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: featurette
-
-# This file represents a page section, false means hide skills.
-headless: false
+# This represents hide skills
+active: hide
+# This file represents a page section.
+headless: true
 
 # Order that this section appears on the page.
 weight: 30
