@@ -9,9 +9,7 @@ authors:
   - admin
   - Shiwei Shao
   - Hui Liu
-link: 
-  - name: 'link'
-  - url: https://www.cnki.com.cn/Article/CJFDTotal-DXKJ202009032.htm
+
 publication: Geospatial Information-地理空间信息
 publication_short: ""
 abstract: The fine detection of human activity sub-areas of the city is an
