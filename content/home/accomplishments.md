@@ -27,8 +27,8 @@ item:
   - date_end: ''
     date_start: '2022-05-27'
     description: 'Spatial Search People (SSP) is a non-profit scientific community of scholars from around the world. Our current work mainly focuses on extracting and mining the sentiment of Chinese Weibo data.'
-    organization: ssplogo
-    organization_url: https://luojiassp.github.io/
+    organization: Members
+    organization_url: https://luojiassp.github.io/pages/people.html
     title: Spatial Search People (SSP)
     url: 'https://luojiassp.github.io/'
   # - certificate_url: https://www.edx.org
