@@ -31,7 +31,6 @@ image:
 
 authors:
   - admin
-  - 乔梦玲
 
 tags:
   - Work
