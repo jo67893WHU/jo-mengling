@@ -13,7 +13,7 @@ projects: []
 date: '2021-06-27T00:00:00Z'
 
 # Date updated
-lastmod: '2021-06-27T00:00:00Z'
+# lastmod: '2021-06-27T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
@@ -41,6 +41,7 @@ tags:
 #   - Demo
 #   - 教程
 ---
+![Qing Hao's little white boat hhh](/static/media/airboat.jpg)
 <!-- 
 ## Overview
 
