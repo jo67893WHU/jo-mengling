@@ -30,7 +30,7 @@ experience:
     date_start: '2022-07-27'
     date_end: ''
     description: |2-
-        Supervisor: [Prof. QU Huanmin](http://huamin.org/)
+        Supervisor: [Prof. QU Huamin](http://huamin.org/)
 
   # - title: Member
   #   company: Spatial Search People (SSP)
@@ -49,7 +49,7 @@ experience:
     date_end: '2022-07-26'
     description: |2-
         Supervisor: [Prof. HUANG Bo](https://www.grm.cuhk.edu.hk/en/profile/bhuang/)
-        
+
         Studies include:
         
         * community vulnerability assessment during COVID-19
