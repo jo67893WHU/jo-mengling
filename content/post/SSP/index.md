@@ -4,7 +4,7 @@ title: 🐾 Spatial Search People (SSP) is Online
 subtitle: 
 
 # Summary for listings and search engines
-summary: Spatial Search People (SSP) is a non-profit scientific community of scholars from around the world. Our current work mainly focuses on extracting and mining the sentiment of Chinese Weibo data. [More](https://luojiassp.github.io/)
+summary: Spatial Search People (SSP) is a non-profit scientific community of scholars from around the world. Our current work mainly focuses on extracting and mining the sentiment of Chinese Weibo data. *[More...](https://luojiassp.github.io/)*
 
 # Link this post with a project
 projects: []
@@ -40,7 +40,7 @@ tags:
 #   - Demo
 #   - 教程
 ---
-Spatial Search People (SSP) is a non-profit scientific community of scholars from around the world. Our current work mainly focuses on extracting and mining the sentiment of Chinese Weibo data. [More](https://luojiassp.github.io/)
+Spatial Search People (SSP) is a non-profit scientific community of scholars from around the world. Our current work mainly focuses on extracting and mining the sentiment of Chinese Weibo data. *[More...](https://luojiassp.github.io/)*
 {{< figure src="/post/weibo-count-1year.png" >}}
 
 
