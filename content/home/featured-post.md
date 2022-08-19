@@ -32,7 +32,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  columns: '2'
-  view: 3
+  columns: '1'
+  view: 5
   flip_alt_rows: true
 ---
