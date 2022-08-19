@@ -1,6 +1,6 @@
 ---
 
-title: Approval of the Research Talent Hub
+title: 👉 Approval of the Research Talent Hub
 subtitle: 
 
 # Summary for listings and search engines
