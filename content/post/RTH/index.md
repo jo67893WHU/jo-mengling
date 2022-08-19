@@ -41,6 +41,7 @@ tags:
 #   - 教程
 ---
 The application for the Research Talent Hub (RTH) has been approved by the Innovation and Technology Commission. 
+
 Acknowledgements: [Prof. QU](http://huamin.org/) and Dr. Rong ZHANG
 
 
