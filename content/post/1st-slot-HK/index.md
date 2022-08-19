@@ -1,10 +1,10 @@
 ---
 
-title: Fly to Hong Kong
+title: Fly to Hong Kong 
 subtitle: 
 
 # Summary for listings and search engines
-summary: impressive sights on the plane.
+summary: impressive sights on the plane 🛬
 
 # Link this post with a project
 projects: []

@@ -4,7 +4,7 @@ title: Merry Christmas
 subtitle: 
 
 # Summary for listings and search engines
-summary: Look at my broccoli platter ~
+summary: Look at my broccoli platter 🥦
 
 # Link this post with a project
 projects: []
@@ -40,7 +40,7 @@ tags:
 #   - Demo
 #   - 教程
 ---
-{{< figure src="/post/christmars.jpg" title="Look at my broccoli platter" >}}
+{{< figure src="/post/christmars.jpg" title="Look at my broccoli platter 🥦" >}}
 
 
 

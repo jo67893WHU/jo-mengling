@@ -46,7 +46,7 @@ tags:
 {{< figure src="/post/rich-road.jpg" title="Road To The Rich!" >}}
 {{< figure src="/post/2022-pm.jpg" title="Romantic View" >}}
 {{< figure src="/post/2022.jpg" title="The People" >}}
-{{< figure src="/post/2022-sunset.jpg" title="Is the sunset a magical way to travel through time?" >}}
+{{< figure src="/post/2022-sunset.jpg" title="Is the sunset a magical way🛸 to travel through time?" >}}
 
 
 <!-- 
