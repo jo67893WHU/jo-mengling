@@ -41,7 +41,7 @@ tags:
 #   - 教程
 ---
 Spatial Search People (SSP) is a non-profit scientific community of scholars from around the world. Our current work mainly focuses on extracting and mining the sentiment of Chinese Weibo data. [More](https://luojiassp.github.io/)
-{{< figure src="/post/weibo-count-1year.jpg" >}}
+{{< figure src="/post/weibo-count-1year.png" >}}
 
 
 
