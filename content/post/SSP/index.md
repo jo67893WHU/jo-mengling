@@ -1,10 +1,10 @@
 ---
 
-title: 🐾 Approval of the Research Talent Hub
+title: 🐾 Spatial Search People (SSP) is Online
 subtitle: 
 
 # Summary for listings and search engines
-summary: The application for the Research Talent Hub (RTH) has been approved by the Innovation and Technology Commission. 
+summary: Spatial Search People (SSP) is a non-profit scientific community of scholars from around the world. Our current work mainly focuses on extracting and mining the sentiment of Chinese Weibo data. More (https://luojiassp.github.io/)
 
 # Link this post with a project
 projects: []
@@ -40,14 +40,10 @@ tags:
 #   - Demo
 #   - 教程
 ---
-The application for the Research Talent Hub (RTH) has been approved by the Innovation and Technology Commission. 
-Acknowledgements: Prof. QU (http://huamin.org/) and Dr. Rong ZHANG
+Spatial Search People (SSP) is a non-profit scientific community of scholars from around the world. Our current work mainly focuses on extracting and mining the sentiment of Chinese Weibo data. More (https://luojiassp.github.io/)
+{{< figure src="/post/weibo-count-1year.jpg" >}}
 
 
 
-<!-- 
-## Overview
-
-Are you David? -->
 
 
