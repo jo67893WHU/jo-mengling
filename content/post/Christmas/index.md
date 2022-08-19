@@ -1,6 +1,6 @@
 ---
 
-title: Merry Christmas
+title: Merry Christmas🎄
 subtitle: 
 
 # Summary for listings and search engines

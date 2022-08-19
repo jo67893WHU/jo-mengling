@@ -1,6 +1,6 @@
 ---
 
-title: Who is 30!
+title: Who is 30 🎉
 subtitle: 
 
 # Summary for listings and search engines
