@@ -33,6 +33,6 @@ design:
   #   3 = Card
   #   4 = Citation (publication only)
   columns: '2'
-  view: 1
+  view: 2
   flip_alt_rows: true
 ---
