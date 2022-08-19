@@ -17,6 +17,7 @@ image:
   placement: 2
   preview_only: true
 ---
+{{< figure src="/post/vislab.jpg" title="Great first group meeting" >}}
 {{< figure src="/post/ust-canteen.jpg" title="yummy and happy!" >}}
 
 

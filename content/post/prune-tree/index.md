@@ -1,10 +1,10 @@
 ---
 
-title: My prune tree bears fruit
+title: The pandemic and my prune tree
 subtitle: 
 
 # Summary for listings and search engines
-summary: I planted this prune tree during the epidemic in 2019. The tree starts to bear fruit, the epidemic is still around.
+summary: My prune tree bears fruit. I planted this prune tree during the pandemic in 2019. The tree starts to bear fruit, the pandemic is still around. Maybe the pandemic will disappear when my coffee tree bear fruit. Or, maybe my coffee tree will actually bear fruit...
 
 # Link this post with a project
 projects: []
@@ -40,7 +40,7 @@ tags:
 #   - Demo
 #   - 教程
 ---
-{{< figure src="/post/ximei.jpg" title="Mom missed me" >}}
+{{< figure src="/post/ximei.jpg" title="Mom misses me" >}}
 
 
 
