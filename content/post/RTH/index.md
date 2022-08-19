@@ -1,25 +1,25 @@
 ---
 
-title: Who is 30 🎉
+title: Approval of the Research Talent Hub
 subtitle: 
 
 # Summary for listings and search engines
-summary: Today is a present ~ 
+summary: The application for the Research Talent Hub (RTH) has been approved by the Innovation and Technology Commission. 
 
 # Link this post with a project
 projects: []
 
 # Date published
-date: '2022-06-06T00:00:00Z'
+date: '2022-08-03T00:00:00Z'
 
 # Date updated
-lastmod: '2022-06-06T10:00:00Z'
+lastmod: '2022-08-03T10:00:00Z'
 
 # Is this an unpublished draft?
-draft: true
+draft: false
 
 # Show this page in the Featured widget?
-featured: false
+featured: true
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
@@ -33,15 +33,17 @@ authors:
   - admin
 
 tags:
-  - Life
+  - Work
   # - 开源
 
 # categories:
 #   - Demo
 #   - 教程
 ---
-{{< figure src="/post/30.jpg" title="butcher knife hahaha" >}}
-{{< figure src="/post/cake.jpg" title="黑芝麻味的蛋糕打咩">}}
+The application for the Research Talent Hub (RTH) has been approved by the Innovation and Technology Commission. 
+Acknowledgements: Prof. QU (http://huamin.org/) and Dr. Rong ZHANG
+
+
 
 <!-- 
 ## Overview
