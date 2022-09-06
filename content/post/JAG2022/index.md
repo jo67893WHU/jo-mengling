@@ -40,7 +40,7 @@ tags:
 #   - Demo
 #   - 教程
 ---
-
+Our article 'Assessment of community vulnerability during the COVID-19 pandemic：Hong Kong as a case study' is published in the International Journal of Applied Earth Observation and Geoinformation. *[More...](https://doi.org/https://doi.org/10.1016/j.jag.2022.103007)*
 
 <!-- 
 ## Overview
