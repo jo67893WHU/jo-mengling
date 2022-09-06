@@ -25,7 +25,8 @@ content:
   #     captcha: false
 
   # Contact details (edit or remove options as required)
-  email: csemengling@ust.hk
+  email: menglqiao@whu.edu.cn
+  email: csemengling@ust.hk  
   # phone: 888 888 88 88
   address:
     street: Clear Water Bay, Kowloon, Hong Kong
