@@ -36,7 +36,7 @@ education:
       institution: Wuhan University
       year: 2020
     - course: BSc in GIS
-      institution: Nanjing Norman University
+      institution: Nanjing Normal University
       year: 2015
 email: ""
 superuser: true
