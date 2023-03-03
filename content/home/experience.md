@@ -26,7 +26,7 @@ experience:
   - title: Postdoctoral Research Scientist
     company: Dept.EEE, Columbia University
     company_url: 'https://www.columbia.edu/'
-    company_logo: Columbia
+    company_logo: Columbia.svg
     location: New York City
     date_start: '2023-01-12'
     date_end: ''
