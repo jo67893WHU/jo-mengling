@@ -45,4 +45,4 @@ highlight_name: true
 ---
 I am Mengling Qiao (乔梦玲), currently a Postdoctoral Research Scientist in the [Columbia Water Center](https://water.columbia.edu/), Department of Earth and Environmental Engineering, Columbia University, working with [Prof. Upmanu Lall](http://www.columbia.edu/~ula2/).
 
-I have broad research interests lying in Urban Geography, Human Mobility, GeoHealth, Computational Social Science, and Disaster Planning. Currently, I am focusing on the modeling the mobility patterns of human mobility in disaster events, and sensing the sentiment changes of general population in the post-pandemic era.
+I have broad research interests lying in Urban Geography, Human Mobility, GeoHealth, Computational Social Science, and Disaster Planning. Currently, I am focusing on modeling the mobility patterns of human mobility in disaster events, and sensing the sentiment changes of general population in the post-pandemic era.
