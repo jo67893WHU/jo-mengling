@@ -22,13 +22,24 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Postdoc
+
+  - title: Postdoctoral Research Scientist
+    company: Dept.EEE, Columbia University
+    company_url: 'https://www.columbia.edu/'
+    company_logo: Columbia
+    location: New York City
+    date_start: '2023-01-12'
+    date_end: ''
+    description: |2-
+        Supervisor: [Upmanu Lall](http://www.columbia.edu/~ula2/)
+
+  - title: Postdoctoral Fellow
     company: VisLab, Dept.CSE, HKUST
     company_url: 'https://cse.hkust.edu.hk/'
     company_logo: HKUST
     location: Hong Kong
     date_start: '2022-07-27'
-    date_end: ''
+    date_end: '2023-01-11'
     description: |2-
         Supervisor: [Prof. QU Huamin](http://huamin.org/)
 
@@ -40,7 +51,7 @@ experience:
   #   date_end: ''
   #   description: Spatial Search People (SSP) is a non-profit scientific community of scholars from around the world. Our current work mainly focuses on extracting and mining the sentiment of Chinese Weibo data.
 
-  - title: Postdoc
+  - title: Postdoctoral Fellow
     company: Dept.GRM, CUHK
     company_url: 'https://www.grm.cuhk.edu.hk/en/'
     company_logo: CUHK
