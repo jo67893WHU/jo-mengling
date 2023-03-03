@@ -42,6 +42,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-I am Mengling Qiao (乔梦玲), currently a Postdoctoral Fellowship in [HKUST VisLab](http://vis.cse.ust.hk/index.html), at the Department of Computer Science and Engineering, The Hong Kong University of Science and Technology (HKUST), working with [Prof. Huamin QU](http://huamin.org/).
+I am Mengling Qiao (乔梦玲), currently a Postdoctoral Research Scientist in [Columbia Water Center](https://water.columbia.edu/), at the Department of Earth and Environmental Engineering, Columbia University, working with [Prof. Upmanu Lall](http://www.columbia.edu/~ula2/).
 
-I have broad research interests lying in Urban Geography, Human Mobility, GeoHealth, and Computational Social Science. Currently, I am focusing on the modeling the spatiotemporal impacts of mobility-based factors on the spread of COVID-19, and the air quality for smart cities.
+I have broad research interests lying in Urban Geography, Human Mobility, GeoHealth, Computational Social Science, and Disaster Planning. Currently, I am focusing on the modeling the mobility patterns of human mobility in disaster events, and sensing the sentiment changes of general population in the post-pandemic era.
