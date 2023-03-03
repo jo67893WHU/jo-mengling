@@ -26,11 +26,11 @@ content:
 
   # Contact details (edit or remove options as required)
   email: menglqiao@whu.edu.cn
-  email: csemengling@ust.hk  
+  # email: csemengling@ust.hk  
   # phone: 888 888 88 88
   address:
-    street: Clear Water Bay, Kowloon, Hong Kong
-  directions: Lift 25-26, Dept.CSE, HKUST
+    street: 500 W 120th St, New York, NY 10027
+  # directions: Lift 25-26, Dept.CSE, HKUST
   # office_hours:
   # - 'Monday 10:00 to 13:00'
   #   - 'Wednesday 09:00 to 10:00'
