@@ -1,11 +1,12 @@
 ---
 title: Mengling Qiao
-role: Postdoctoral Fellow
+role: Postdoctoral Research Scientist
 avatar_filename: qiao_ava.jpeg
 bio: ""
 interests:
   - Urban Geography
   - Human Mobility
+  - Disaster Planning
   - GeoHealth
   - Computational Social Science
 social:
@@ -28,8 +29,8 @@ social:
     icon_pack: fab
     link: https://github.com/jo67893WHU
 organizations:
-  - name: The Hong Kong university of Science and Technology (HKUST)
-    url: https://hkust.edu.hk/
+  - name: Columbia University
+    url: https://www.columbia.edu/
 education:
   courses:
     - course: MPhil-PhD in GIS
