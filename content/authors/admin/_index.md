@@ -15,7 +15,7 @@ social:
     link: https://scholar.google.com/citations?user=RYAXOusAAAAJ&hl=zh-CN&oi=ao
   - icon: orcid
     icon_pack: ai
-    link: https://orcid.org/my-orcid?orcid=0000-0002-6576-8411
+    link: https://orcid.org/0000-0002-6576-8411
   - icon: researchgate
     icon_pack: ai
     link: https://www.researchgate.net/profile/Qiao-Mengling
