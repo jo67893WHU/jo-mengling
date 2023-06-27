@@ -12,8 +12,8 @@ headless: true
 title: Gallery
 # subtitle:
 description = "Explore our categorized photo album."
-album_cols = "3"
-categories = ["lunch talk", "Category 2", "Category 3"]
+# album_cols = 3
+# categories = ["lunch talk", "Category 2", "Category 3"]
 # layout: album
 
 content:
