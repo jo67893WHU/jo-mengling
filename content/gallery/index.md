@@ -99,8 +99,6 @@ My prune tree bears fruit. I planted this prune tree during the pandemic in 2019
 ## Jan.2022
 ## Happy 2022
 The Mountain, The Sea, The Sunset, The People!
-
-  
 &nbsp  
 &nbsp  
 &nbsp
@@ -138,9 +136,5 @@ look at my broccoli platter 🥦
 ## Jun.2021
 ## First shot of HK
 impressive sights on the plane 🛬
-
-&nbsp  
-&nbsp  
-
 
 {{< gallery album="1st-slot-hk">}}
