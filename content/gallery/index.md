@@ -66,9 +66,20 @@ Mom misses me
 
 {{< gallery album="prune-tree" >}}
 
+## Jan.2022
+## Happy 2022
+The Mountain, The Sea, The Sunset, The People!
+{{< gallery album="happy2022">}}
 
 ## Dec.2021
 ## Christmas
 look at my broccoli platter 🥦 
 
 {{< gallery album="christmas">}}
+
+
+## Jun.2021
+## First shot of HK
+impressive sights on the plane 🛬
+
+{{< gallery album="1st-slot-hk">}}
