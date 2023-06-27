@@ -68,36 +68,31 @@ Marking the moment I tried to be brave and make smart decision. signing in a lun
 {{< gallery album="lunch-talk">}}   
   
 ---  
-   
-   
-   
-   
-   
+
     
 &nbsp  
 &nbsp  
 &nbsp         
    
    
-   
-   
-       
-   
-   
-   
-   
+  
     
 ## May.2022  
 ## Mom misses me  
 My prune tree bears fruit. I planted this prune tree during the pandemic in 2019. The tree starts to bear fruit, the pandemic is still around. Maybe the pandemic will disappear when my coffee tree bear fruit. Or, maybe my coffee tree will actually bear fruit...   
   
+&nbsp 
 &nbsp  
+&nbsp  
+&nbsp   
    
    
 {{< gallery album="prune-tree" >}}
    
 ---
-
+&nbsp  
+&nbsp  
+&nbsp  
 
 
 
@@ -107,16 +102,18 @@ My prune tree bears fruit. I planted this prune tree during the pandemic in 2019
 The Mountain, The Sea, The Sunset, The People!
 
 
-
-
-
+&nbsp  
+&nbsp  
+&nbsp  
 &nbsp
 
 {{< gallery album="happy2022">}}
 
 ---
 
-
+&nbsp  
+&nbsp  
+&nbsp  
 
 
 
@@ -124,16 +121,17 @@ The Mountain, The Sea, The Sunset, The People!
 ## Christmas
 look at my broccoli platter 🥦 
 
-
-
-
-
+&nbsp  
+&nbsp  
+&nbsp  
 &nbsp
 
 {{< gallery album="christmas">}}
 
 ---
-
+&nbsp  
+&nbsp  
+&nbsp  
 
 
 
@@ -141,11 +139,9 @@ look at my broccoli platter 🥦
 ## Jun.2021
 ## First shot of HK
 impressive sights on the plane 🛬
+&nbsp  
+&nbsp  
+&nbsp  
 
-
-
-
-
-&nbsp
 
 {{< gallery album="1st-slot-hk">}}
