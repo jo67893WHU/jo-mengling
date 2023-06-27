@@ -11,7 +11,7 @@ headless: true
 
 title: Gallery
 # subtitle:
-description: "Explore our categorized photo album."
+summary: Explore our categorized photo album.
 # album_cols = 3
 # categories = ["lunch talk", "Category 2", "Category 3"]
 # layout: album
@@ -30,8 +30,8 @@ content:
     exclude_past: false
   # Choose how many pages you would like to display (0 = all pages)
   count: 0
-#   # Choose how many pages you would like to offset by
-#   offset: 0
+  # Choose how many pages you would like to offset by
+  offset: 0
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
 
