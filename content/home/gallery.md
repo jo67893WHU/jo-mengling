@@ -12,7 +12,9 @@ weight: 90
 title: Gallery
 subtitle:
 
-content:
+layout: album
+
+# content:
   # # Filter on criteria
   # filters:
   #   folders:
@@ -31,7 +33,7 @@ content:
   # # Page order: descending (desc) or ascending (asc) date.
   # order: desc
 
-  gallery_item:
+gallery_item:
   - album: "/albums/lunch-talk"
     image: brave-reward.jpg
     caption: Write your image 1 caption here
@@ -39,8 +41,8 @@ content:
 #   image: <IMAGE 2 NAME>.jpg
 #   caption: Write your image 2 caption here
 
-design:
-  # Choose a view for the listings:
-  view: compact
-  columns: '1'
+# design:
+#   # Choose a view for the listings:
+#   view: compact
+#   columns: '1'
 ---
