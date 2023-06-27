@@ -26,10 +26,7 @@ content:
 
   # Contact details (edit or remove options as required)
   
-  Email: 
-    email: mq2279@columbia.edu 
-  
-    email: menglqiao@whu.edu.cn
+  email: mq2279@columbia.edu
   # phone: 888 888 88 88
   address:
     street: 500 W 120th St, New York, NY 10027
