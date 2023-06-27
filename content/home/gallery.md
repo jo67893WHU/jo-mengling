@@ -31,6 +31,14 @@ content:
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
 
+  gallery_item:
+- album: "/albums/lunch-talk"
+  image: brave-reward.jpg
+  caption: Write your image 1 caption here
+# - album: <ALBUM FOLDER>
+#   image: <IMAGE 2 NAME>.jpg
+#   caption: Write your image 2 caption here
+
 design:
   # Choose a view for the listings:
   view: compact
