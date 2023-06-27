@@ -5,7 +5,7 @@
 # layout: archive
 title: Gallery
 subtitle: Explore our photo album.
-album_cols: 3
+album_cols: '3'
 # categories = ["lunch talk", "Category 2", "Category 3"]
 # layout: album
 
@@ -41,7 +41,7 @@ content:
 design:
   # Choose a view for the listings:
   view: card
-  columns: '2'
+  # columns: '2'
 ---
 
 
