@@ -62,18 +62,25 @@ Always hard to say goodbye. Tried to mark the proof that I was here. The laugh o
 Marking the moment I tried to be brave and make smart decision. signing in a lunch talking, and it is valuable, full of Prof.Qu's wisdom, encouraging and healing, much more than expected. 
 
 &nbsp
+&nbsp
+&nbsp
 
-{{< gallery album="lunch-talk" fit_options="250x250">}}
+{{< gallery album="lunch-talk">}}
 
 ---
+
+
 
 ## May.2022
 ## Mom misses me
 My prune tree bears fruit. I planted this prune tree during the pandemic in 2019. The tree starts to bear fruit, the pandemic is still around. Maybe the pandemic will disappear when my coffee tree bear fruit. Or, maybe my coffee tree will actually bear fruit...
 
 &nbsp
+&nbsp
+&nbsp
 
 {{< gallery album="prune-tree" >}}
+
 ---
 
 ## Jan.2022
