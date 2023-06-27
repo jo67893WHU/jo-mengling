@@ -40,8 +40,8 @@ tags:
 #   - Demo
 #   - 教程
 ---
-{{< figure src="/post/David.jpg" title="Are you David?" >}}
-{{< figure src="/post/airboat.jpg" title="The little white boat of Qing hao hhh" >}}
+{{< figure src="/gallery/David.jpg" title="Are you David?" >}}
+{{< figure src="/gallery/airboat.jpg" title="The little white boat of Qing hao hhh" >}}
 
 <!-- 
 ## Overview
