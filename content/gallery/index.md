@@ -2,7 +2,7 @@
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 
-
+layout: archive
 title: Gallery
 subtitle: Explore our photo album.
 # album_cols: 3
