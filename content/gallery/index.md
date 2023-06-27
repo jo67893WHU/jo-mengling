@@ -60,7 +60,7 @@ Marking the moment I tried to be brave and make smart decision. signing in a lun
 ##
 ##
 
-{{< gallery album="lunch-talk" >}}
+{{< gallery album="lunch-talk" Fit_options="250x250">}}
 
 
 ## May.2022
