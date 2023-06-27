@@ -24,6 +24,16 @@ album_cols: 3
 #   view: compact
 #   columns: '1'
 ---
+
+
+## Jan.2023
+## See U again HK
+Always hard to say goodbye. Tried to mark the proof that I was here.
+
+{{< gallery album="see-u-again-hk" >}}
+
+
+
 ## Dec.2022
 ## Lunch Talk
 Marking the moment I tried to be brave and make smart decision. signing in a lunch talking, and it is valuable, full of Prof.Qu's wisdom, encouraging and healing, much more than expected. 
