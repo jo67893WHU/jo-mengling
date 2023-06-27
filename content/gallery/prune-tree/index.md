@@ -40,7 +40,7 @@ tags:
 #   - Demo
 #   - 教程
 ---
-{{< figure src="/post/ximei.jpg" title="Mom misses me" >}}
+{{< figure src="/gallery/ximei.jpg" title="Mom misses me" >}}
 
 
 

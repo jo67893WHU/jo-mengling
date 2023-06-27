@@ -40,13 +40,13 @@ tags:
 #   - Demo
 #   - 教程
 ---
-{{< figure src="/post/2022-mountain.jpg" title="The Mountain" >}}
-{{< figure src="/post/happy-boy.jpg" title="A Happy Boy" >}}
-{{< figure src="/post/2022-sea.jpg" title="Happy Boy's Happy Family" >}}
-{{< figure src="/post/rich-road.jpg" title="Road To The Rich!" >}}
-{{< figure src="/post/2022-pm.jpg" title="Romantic View" >}}
-{{< figure src="/post/2022.jpg" title="The People" >}}
-{{< figure src="/post/2022-sunset.jpg" title="Is the sunset a magical way🛸 to travel through time?" >}}
+{{< figure src="/gallery/2022-mountain.jpg" title="The Mountain" >}}
+{{< figure src="/gallery/happy-boy.jpg" title="A Happy Boy" >}}
+{{< figure src="/gallery/2022-sea.jpg" title="Happy Boy's Happy Family" >}}
+{{< figure src="/gallery/rich-road.jpg" title="Road To The Rich!" >}}
+{{< figure src="/gallery/2022-pm.jpg" title="Romantic View" >}}
+{{< figure src="/gallery/2022.jpg" title="The People" >}}
+{{< figure src="/gallery/2022-sunset.jpg" title="Is the sunset a magical way🛸 to travel through time?" >}}
 
 
 <!-- 

@@ -42,12 +42,12 @@ tags:
 ---
 Always hard to say goodbye. Tried to mark the proof that I was here.
 
-{{< figure src="/post/lastday-in-hkust.jpg" title="lastday in hkust. Even using a filter cannot hide the proof of delicious hk food brought to my figure" >}}
-{{< figure src="/post/sweet-sugar.jpg" title="sweet surpise" >}}
-{{< figure src="/post/currency.jpg" title="first time to observe HKD" >}}
-{{< figure src="/post/bd-view.jpg" title="love my bedroom view" >}}
-{{< figure src="/post/bd-view2.jpg" title="love my bedroom view" >}}
-{{< figure src="/post/keys.jpg" title="bye" >}}
+{{< figure src="/gallery/lastday-in-hkust.jpg" title="lastday in hkust. Even using a filter cannot hide the proof of delicious hk food brought to my figure" >}}
+{{< figure src="/gallery/sweet-sugar.jpg" title="sweet surpise" >}}
+{{< figure src="/gallery/currency.jpg" title="first time to observe HKD" >}}
+{{< figure src="/gallery/bd-view.jpg" title="love my bedroom view" >}}
+{{< figure src="/gallery/bd-view2.jpg" title="love my bedroom view" >}}
+{{< figure src="/gallery/keys.jpg" title="bye" >}}
 
 
 

@@ -40,7 +40,7 @@ tags:
 #   - Demo
 #   - 教程
 ---
-{{< figure src="/post/christmars.jpg" title="Look at my broccoli platter 🥦" >}}
+{{< figure src="/gallery/christmars.jpg" title="Look at my broccoli platter 🥦" >}}
 
 
 
