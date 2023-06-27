@@ -19,8 +19,8 @@ description: "Explore our categorized photo album."
 content:
   # Filter on criteria
   filters:
-    folders:
-      - gallery
+    # folders:
+    #   - gallery
     tag: ''
     category: ''
     publication_type: ''
