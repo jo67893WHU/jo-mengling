@@ -59,6 +59,6 @@ Marking the moment I tried to be brave and make smart decision. signing in a lun
 
 ## Dec.2021
 ## Christmas
-ook at my broccoli platter 🥦 
+look at my broccoli platter 🥦 
 
 {{< gallery album="christmas" >}}
