@@ -17,12 +17,12 @@ main:
   - name: Publications
     url: '#featured'
     weight: 20
-  - name: Post
+  - name: Academic Posts
     url: '#featured-post'
     weight: 40
-  # - name: Gallery
-  #   url: '#gallery'
-  #   weight: 50
+  - name: Life Gallery
+    url: '#gallery'
+    weight: 50
   # - name: Services
   #   url: '#accomplishments'
   #   weight: 30
