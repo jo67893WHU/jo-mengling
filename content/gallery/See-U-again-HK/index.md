@@ -42,7 +42,9 @@ tags:
 ---
 Always hard to say goodbye. Tried to mark the proof that I was here.
 
+{{< figure src="/gallery/office-hour.jpg" title="office hours, look at Yanna" >}}
 {{< figure src="/gallery/lastday-in-hkust.jpg" title="lastday in hkust. Even using a filter cannot hide the proof of delicious hk food brought to my figure" >}}
+{{< figure src="/gallery/wishes.jpg" title="best wishes from Prof.Qu" >}}
 {{< figure src="/gallery/sweet-sugar.jpg" title="sweet surpise" >}}
 {{< figure src="/gallery/currency.jpg" title="first time to observe HKD" >}}
 {{< figure src="/gallery/bd-view.jpg" title="love my bedroom view" >}}
