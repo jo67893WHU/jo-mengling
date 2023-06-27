@@ -49,6 +49,8 @@ design:
 ## See U again HK
 Always hard to say goodbye. Tried to mark the proof that I was here. The laugh of labers in office hour, the wishes from Prof.Qu and labers, the best view of my bedroom...
 
+&nbsp
+
 {{< gallery album="see-u-again-hk" >}}
 
 
@@ -57,29 +59,34 @@ Always hard to say goodbye. Tried to mark the proof that I was here. The laugh o
 ## Dec.2022
 ## Lunch Talk
 Marking the moment I tried to be brave and make smart decision. signing in a lunch talking, and it is valuable, full of Prof.Qu's wisdom, encouraging and healing, much more than expected. 
-##
-##
 
-{{< gallery album="lunch-talk" Fit_options="250x250">}}
+&nbsp
+
+{{< gallery album="lunch-talk" fit_options="250x250">}}
 
 
 ## May.2022
 ## Mom misses me
 My prune tree bears fruit. I planted this prune tree during the pandemic in 2019. The tree starts to bear fruit, the pandemic is still around. Maybe the pandemic will disappear when my coffee tree bear fruit. Or, maybe my coffee tree will actually bear fruit...
 
-##
-##
+&nbsp
 
 {{< gallery album="prune-tree" >}}
 
 ## Jan.2022
 ## Happy 2022
 The Mountain, The Sea, The Sunset, The People!
+
+&nbsp
+
 {{< gallery album="happy2022">}}
+
 
 ## Dec.2021
 ## Christmas
 look at my broccoli platter 🥦 
+
+&nbsp
 
 {{< gallery album="christmas">}}
 
@@ -87,5 +94,7 @@ look at my broccoli platter 🥦
 ## Jun.2021
 ## First shot of HK
 impressive sights on the plane 🛬
+
+&nbsp
 
 {{< gallery album="1st-slot-hk">}}
