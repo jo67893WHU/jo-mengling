@@ -16,11 +16,11 @@ album_cols = "3"
 categories = ["lunch talk", "Category 2", "Category 3"]
 # layout: album
 
-# content:
-#   # Filter on criteria
-#   filters:
-#     folders:
-#       - albums
+content:
+  # Filter on criteria
+  filters:
+    folders:
+      - gallery
 #     tag: ''
 #     category: ''
 #     publication_type: ''
