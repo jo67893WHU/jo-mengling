@@ -1,10 +1,10 @@
 ---
 
-title: realized to make brave and smart decision
+title: A introvert's moment of awakening
 subtitle: 
 
 # Summary for listings and search engines
-summary: A introvert's moment of awakening, I tried to be brave and make smart decision. The lunch talking is valuable, full of Prof.Qu's wisdom, encouraging and healing. 
+summary: I tried to be brave and make smart decision. signing in a lunch talking, and it is valuable, full of Prof.Qu's wisdom, encouraging and healing, much more than expected. 
 
 # Link this post with a project
 projects: []
