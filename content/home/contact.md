@@ -25,8 +25,9 @@ content:
   #     captcha: false
 
   # Contact details (edit or remove options as required)
+  
+  email: mq2279@columbia.edu 
   email: menglqiao@whu.edu.cn
-  # email: csemengling@ust.hk  
   # phone: 888 888 88 88
   address:
     street: 500 W 120th St, New York, NY 10027
