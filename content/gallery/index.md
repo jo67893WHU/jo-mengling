@@ -9,7 +9,24 @@ subtitle: Explore our photo album.
 # categories = ["lunch talk", "Category 2", "Category 3"]
 # layout: album
 
-
+content:
+  # Filter on criteria
+  filters:
+    folders:
+      - gallery
+    tag: ''
+    category: ''
+    publication_type: ''
+    author: ''
+    exclude_featured: false
+    exclude_future: false
+    exclude_past: false
+  # Choose how many pages you would like to display (0 = all pages)
+  count: 1
+  # Choose how many pages you would like to offset by
+  offset: 0
+  # Page order: descending (desc) or ascending (asc) date.
+  order: desc
 
 # gallery_item:
 #   - album: "/albums/lunch-talk"
@@ -19,10 +36,10 @@ subtitle: Explore our photo album.
 #   image: <IMAGE 2 NAME>.jpg
 #   caption: Write your image 2 caption here
 
-# design:
-#   # Choose a view for the listings:
-#   view: compact
-#   columns: '1'
+design:
+  # Choose a view for the listings:
+  view: compact
+  columns: '1'
 ---
 
 
