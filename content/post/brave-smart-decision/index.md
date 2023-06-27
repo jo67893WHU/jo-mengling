@@ -4,7 +4,7 @@ title: A introvert's moment of awakening
 subtitle: 
 
 # Summary for listings and search engines
-summary: I tried to be brave and make smart decision. signing in a lunch talking, and it is valuable, full of Prof.Qu's wisdom, encouraging and healing, much more than expected. 
+summary: []
 
 # Link this post with a project
 projects: []
@@ -40,6 +40,8 @@ tags:
 #   - Demo
 #   - 教程
 ---
+I tried to be brave and make smart decision. signing in a lunch talking, and it is valuable, full of Prof.Qu's wisdom, encouraging and healing, much more than expected. 
+
 {{< figure src="/post/brave-reward.jpg" title="reward moment" >}}
 
 <!-- 

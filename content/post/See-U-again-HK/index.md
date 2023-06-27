@@ -40,6 +40,8 @@ tags:
 #   - Demo
 #   - 教程
 ---
+Always hard to say goodbye. Tried to mark the proof that I was here.
+
 {{< figure src="/post/lastday-in-hkust.jpg" title="lastday in hkust. Even using a filter cannot hide the proof of delicious hk food brought to my figure" >}}
 {{< figure src="/post/sweet-sugar.jpg" title="sweet surpise" >}}
 {{< figure src="/post/currency.jpg" title="first time to observe HKD" >}}
