@@ -132,7 +132,7 @@ look at my broccoli platter 🥦
 
 
 ## Jun.2021
-## First shot of HK
+## First slot of HK
 impressive sights on the plane 🛬
 
 {{< gallery album="1st-slot-hk">}}
