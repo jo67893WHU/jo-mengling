@@ -53,6 +53,7 @@ Always hard to say goodbye. Tried to mark the proof that I was here. The laugh o
 
 {{< gallery album="see-u-again-hk" >}}
 
+*** 
 ***  
 
 
@@ -67,6 +68,7 @@ Marking the moment I tried to be brave and make smart decision. signing in a lun
 
 {{< gallery album="lunch-talk">}}   
   
+*** 
 ***  
 
     
@@ -90,6 +92,7 @@ My prune tree bears fruit. I planted this prune tree during the pandemic in 2019
    
 {{< gallery album="prune-tree" >}}
    
+*** 
 ***  
 &nbsp    
 &nbsp    
@@ -110,6 +113,7 @@ The Mountain, The Sea, The Sunset, The People!
 {{< gallery album="happy2022">}}
 
 ***  
+*** 
 
 &nbsp  
 &nbsp  
@@ -129,17 +133,18 @@ look at my broccoli platter 🥦
 {{< gallery album="christmas">}}
 
 ***  
+*** 
 &nbsp  
 &nbsp  
 &nbsp  
-
+&nbsp  
 
 
 
 ## Jun.2021
 ## First shot of HK
 impressive sights on the plane 🛬
-&nbsp  
+
 &nbsp  
 &nbsp  
 
