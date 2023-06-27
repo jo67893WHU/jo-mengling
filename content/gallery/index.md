@@ -28,6 +28,11 @@ content:
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
 
+image:
+  placement: 1
+  focal_point: "Center"
+  preview_only: True
+
 # gallery_item:
 #   - album: "/albums/lunch-talk"
 #     image: brave-reward.jpg
