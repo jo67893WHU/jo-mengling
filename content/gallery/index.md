@@ -5,7 +5,7 @@
 # layout: archive
 title: Gallery
 subtitle: Explore our photo album.
-# album_cols: 3
+album_cols: 3
 # categories = ["lunch talk", "Category 2", "Category 3"]
 # layout: album
 
@@ -22,7 +22,7 @@ content:
     exclude_future: false
     exclude_past: false
   # Choose how many pages you would like to display (0 = all pages)
-  count: 0
+  count: 1
   # Choose how many pages you would like to offset by
   offset: 0
   # Page order: descending (desc) or ascending (asc) date.
@@ -59,11 +59,13 @@ Always hard to say goodbye. Tried to mark the proof that I was here. The laugh o
 
 ## Dec.2022
 ## Lunch Talk
-Marking the moment I tried to be brave and make smart decision. signing in a lunch talking, and it is valuable, full of Prof.Qu's wisdom, encouraging and healing, much more than expected...
+Marking the moment I tried to be brave and make smart decision. signing in a lunch talking, and it is valuable, full of Prof.Qu's wisdom, encouraging and healing, much more than expected.
+
+
+
 
 &nbsp
-&nbsp
-&nbsp
+
 
 {{< gallery album="lunch-talk">}}
 
@@ -75,17 +77,28 @@ Marking the moment I tried to be brave and make smart decision. signing in a lun
 ## Mom misses me
 My prune tree bears fruit. I planted this prune tree during the pandemic in 2019. The tree starts to bear fruit, the pandemic is still around. Maybe the pandemic will disappear when my coffee tree bear fruit. Or, maybe my coffee tree will actually bear fruit...
 
-&nbsp
-&nbsp
+
+
+
+
+
 &nbsp
 
 {{< gallery album="prune-tree" >}}
 
 ---
 
+
+
+
+
 ## Jan.2022
 ## Happy 2022
 The Mountain, The Sea, The Sunset, The People!
+
+
+
+
 
 &nbsp
 
@@ -93,9 +106,17 @@ The Mountain, The Sea, The Sunset, The People!
 
 ---
 
+
+
+
+
 ## Dec.2021
 ## Christmas
 look at my broccoli platter 🥦 
+
+
+
+
 
 &nbsp
 
@@ -103,9 +124,17 @@ look at my broccoli platter 🥦
 
 ---
 
+
+
+
+
 ## Jun.2021
 ## First shot of HK
 impressive sights on the plane 🛬
+
+
+
+
 
 &nbsp
 
