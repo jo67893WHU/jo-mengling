@@ -58,6 +58,14 @@ Marking the moment I tried to be brave and make smart decision. signing in a lun
 {{< gallery album="lunch-talk" ,resize_options="250x250" >}}
 
 
+## May.2022
+## Lunch Talk
+My prune tree bears fruit. I planted this prune tree during the pandemic in 2019. The tree starts to bear fruit, the pandemic is still around. Maybe the pandemic will disappear when my coffee tree bear fruit. Or, maybe my coffee tree will actually bear fruit...
+
+Mom misses me
+
+{{< gallery album="prune-tree" ,resize_options="250x250" >}}
+
 
 ## Dec.2021
 ## Christmas
