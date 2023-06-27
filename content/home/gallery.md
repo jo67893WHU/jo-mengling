@@ -49,7 +49,7 @@ content:
 #   view: compact
 #   columns: '1'
 ---
+## Dec.2022
 ## lunch talk
 Marking the moment I tried to be brave and make smart decision. signing in a lunch talking, and it is valuable, full of Prof.Qu's wisdom, encouraging and healing, much more than expected. 
-<!-- {{< figure src="/gallery/brave-reward.jpg" title="reward moment" >}} -->
 {{< gallery album="lunch-talk" >}}
