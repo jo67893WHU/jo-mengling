@@ -32,9 +32,9 @@ content:
   order: desc
 
   gallery_item:
-- album: "/albums/lunch-talk"
-  image: brave-reward.jpg
-  caption: Write your image 1 caption here
+  - album: "/albums/lunch-talk"
+    image: brave-reward.jpg
+    caption: Write your image 1 caption here
 # - album: <ALBUM FOLDER>
 #   image: <IMAGE 2 NAME>.jpg
 #   caption: Write your image 2 caption here
