@@ -9,18 +9,18 @@ subtitle: Explore our photo album.
 # categories = ["lunch talk", "Category 2", "Category 3"]
 # layout: album
 
-# content:
-#   # Filter on criteria
-#   filters:
-#     folders:
-#       - gallery
-#     tag: ''
-#     category: ''
-#     publication_type: ''
-#     author: ''
-#     exclude_featured: false
-#     exclude_future: false
-#     exclude_past: false
+content:
+  # Filter on criteria
+  filters:
+    folders:
+      - gallery
+    tag: ''
+    category: ''
+    publication_type: ''
+    author: ''
+    exclude_featured: false
+    exclude_future: false
+    exclude_past: false
   # Choose how many pages you would like to display (0 = all pages)
   count: 0
   # Choose how many pages you would like to offset by
