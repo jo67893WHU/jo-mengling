@@ -1,22 +1,22 @@
 ---
 
-title: realized to make brave and smart decision
+title: Who is 30 🎉
 subtitle: 
 
 # Summary for listings and search engines
-summary: A introvert's moment of awakening, I tried to be brave and make smart decision. The lunch talking is valuable, full of Prof.Qu's wisdom, encouraging and healing. 
+summary: Today is a present ~ 
 
 # Link this post with a project
 projects: []
 
 # Date published
-date: '2022-12-06T00:00:00Z'
+date: '2022-06-06T00:00:00Z'
 
 # Date updated
-lastmod: '2022-12-06T10:00:00Z'
+lastmod: '2022-06-06T10:00:00Z'
 
 # Is this an unpublished draft?
-draft: false
+draft: true
 
 # Show this page in the Featured widget?
 featured: true
@@ -40,7 +40,8 @@ tags:
 #   - Demo
 #   - 教程
 ---
-{{< figure src="/post/brave-reward.jpg" title="reward moment" >}}
+{{< figure src="/post/30.jpg" title="butcher knife hahaha" >}}
+{{< figure src="/post/cake.jpg" title="黑芝麻味的蛋糕打咩">}}
 
 <!-- 
 ## Overview
