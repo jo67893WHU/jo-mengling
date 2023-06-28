@@ -130,4 +130,4 @@ impressive sights on the plane 🛬
 ## Christmas
 Christmas tree from broccoli platter 🥦  
 
-{{< image-gallery gallery_dir="christmas">}}
+{{< image-gallery gallery_dir="/christmas">}}
