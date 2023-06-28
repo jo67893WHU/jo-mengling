@@ -120,7 +120,8 @@ look at my broccoli platter 🥦
 
 {{< image-gallery gallery_dir=="christmas">}}
 
-<!-- ___  
+<!-- 
+___ 
 
 &nbsp  
 &nbsp  
