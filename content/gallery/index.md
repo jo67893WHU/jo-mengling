@@ -49,7 +49,7 @@ design:
 ## See U again HK
 Always hard to say goodbye. Tried to mark the proof that I was here. The laugh of labers in office hour, the wishes from Prof.Qu and labers, the best view of my bedroom...
 
-{{< gallery album="see-u-again-hk" fit="contain" width="200" height="100">}}
+{{< gallery album="see-u-again-hk" fit="contain" width="50" height="50">}}
 
 ___ 
 
