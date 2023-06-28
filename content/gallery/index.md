@@ -42,23 +42,16 @@ design:
   # Choose a view for the listings:
   view: showcase
   # columns: '2'
-  spacing:
-    padding:
-      - 20px
-      - "0"
-      - 20px
-      - "0"
+
 ---
 
 ## Jan.2023
 ## See U again HK
 Always hard to say goodbye. Tried to mark the proof that I was here. The laugh of labers in office hour, the wishes from Prof.Qu and labers, the best view of my bedroom...
 
+{{< gallery album="see-u-again-hk" fit="contain" width="300" height="200">}}
 
-
-{{< gallery album="see-u-again-hk" >}}
-
-***  
+___ 
 
 
 
@@ -72,7 +65,7 @@ Marking the moment I tried to be brave and make smart decision. signing in a lun
 
 {{< gallery album="lunch-talk">}}
 
-***  
+___  
 
     
 &nbsp  
@@ -94,7 +87,7 @@ My prune tree bears fruit. I planted this prune tree during the pandemic in 2019
    
 {{< gallery album="prune-tree" >}}
 
-***  
+___  
 &nbsp    
 &nbsp    
 &nbsp    
@@ -109,7 +102,7 @@ The Mountain, The Sea, The Sunset, The People!
 
 {{< gallery album="happy2022">}}
 
-***  
+___  
 
 &nbsp  
 &nbsp  
@@ -127,7 +120,7 @@ look at my broccoli platter 🥦
 
 {{< gallery album="christmas">}}
 
-***  
+___  
 
 &nbsp  
 &nbsp  
