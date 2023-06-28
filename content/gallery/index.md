@@ -119,17 +119,17 @@ look at my broccoli platter 🥦
 &nbsp  
 
 {{< image-gallery gallery_dir=="christmas">}}
-
 <!-- 
+
 ___ 
 
 &nbsp  
 &nbsp  
 &nbsp  
 &nbsp  
- -->
 
-<!-- 
+
+
 ## Jun.2021
 ## First slot of HK
 impressive sights on the plane 🛬
