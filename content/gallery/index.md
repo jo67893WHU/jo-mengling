@@ -120,13 +120,13 @@ look at my broccoli platter 🥦
 
 {{< image-gallery gallery_dir=="christmas">}}
 
-___  
+<!-- ___  
 
 &nbsp  
 &nbsp  
 &nbsp  
 &nbsp  
-
+ -->
 
 <!-- 
 ## Jun.2021
