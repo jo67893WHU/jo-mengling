@@ -14,7 +14,7 @@
   {{- $imagetitle := index (split .Name ".") 0 -}}
   
     <li>
-      <a href="{{ .RelPermalink }}" width="{{ 1600 }}" height="{{ 1600 }}" title="{{ $imagetitle }}" class="lightbox-image">
+      <a href="{{ .Permalink }}" width="{{ 1600 }}" height="{{ 1600 }}" title="{{ $imagetitle }}" class="lightbox-image">
         <img src='{{ ( $image.Fill "300x300 q50" ).Permalink }}' alt="{{ $imagetitle }}" title="{{ $imagetitle }}">
         <span>{{ $imagetitle }}</span>
       </a>
