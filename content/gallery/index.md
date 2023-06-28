@@ -44,6 +44,13 @@ design:
   # columns: '2'
 
 ---
+
+## Dec.2021
+## Christmas
+Christmas tree from broccoli platter 🥦  
+
+{{< image-gallery gallery_dir="/christmas">}}
+
 <!-- 
 ## Jan.2023
 ## See U again HK
@@ -126,8 +133,4 @@ impressive sights on the plane 🛬
 
 {{< gallery album="1st-slot-hk">}} -->
 
-## Dec.2021
-## Christmas
-Christmas tree from broccoli platter 🥦  
 
-{{< image-gallery gallery_dir="/christmas">}}
