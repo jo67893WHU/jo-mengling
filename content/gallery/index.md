@@ -125,12 +125,9 @@ ___
 impressive sights on the plane 🛬
 
 {{< gallery album="1st-slot-hk">}} -->
+
 ## Dec.2021
 ## Christmas
-look at my broccoli platter 🥦  
-&nbsp    
-&nbsp    
-&nbsp  
-&nbsp  
+Christmas tree from broccoli platter 🥦  
 
-{{< image-gallery gallery_dir=="christmas">}}
+{{< image-gallery gallery_dir="christmas">}}
