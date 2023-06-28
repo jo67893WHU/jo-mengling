@@ -28,7 +28,7 @@ content:
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
 
-
+enableInlineShortcodes: true
 
 # gallery_item:
 #   - album: "/albums/lunch-talk"
