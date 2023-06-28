@@ -108,18 +108,8 @@ ___
 &nbsp  
 &nbsp  
 
- -->
 
-## Dec.2021
-## Christmas
-look at my broccoli platter 🥦  
-&nbsp    
-&nbsp    
-&nbsp  
-&nbsp  
 
-{{< image-gallery gallery_dir=="christmas">}}
-<!-- 
 
 ___ 
 
@@ -135,3 +125,12 @@ ___
 impressive sights on the plane 🛬
 
 {{< gallery album="1st-slot-hk">}} -->
+## Dec.2021
+## Christmas
+look at my broccoli platter 🥦  
+&nbsp    
+&nbsp    
+&nbsp  
+&nbsp  
+
+{{< image-gallery gallery_dir=="christmas">}}
