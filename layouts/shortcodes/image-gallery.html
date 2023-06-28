@@ -12,7 +12,7 @@
   {{- $image := resources.Get (printf "%s/%s" $dir .Name) -}}
   {{- $imageurl := printf "%s/%s" $dir .Name -}}
   {{- $imagetitle := index (split .Name ".") 0 -}}
-  {{ printf "%#v" $image }}
+  <!-- {{ printf "%#v" $image }} -->
     <li>
       <a href='{{ ( $image.Fit "1600x1600 q50" ).Permalink }}' title="{{ $imagetitle }}" class="lightbox-image">
         <img src='{{ ( $image.Fill "300x300 q50" ).Permalink }}' alt="{{ $imagetitle }}" title="{{ $imagetitle }}">

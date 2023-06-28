@@ -44,7 +44,7 @@ design:
   # columns: '2'
 
 ---
-
+<!-- 
 ## Jan.2023
 ## See U again HK
 Always hard to say goodbye. Tried to mark the proof that I was here. The laugh of labers in office hour, the wishes from Prof.Qu and labers, the best view of my bedroom...
@@ -108,7 +108,7 @@ ___
 &nbsp  
 &nbsp  
 
-
+ -->
 
 ## Dec.2021
 ## Christmas
@@ -118,7 +118,7 @@ look at my broccoli platter 🥦
 &nbsp  
 &nbsp  
 
-{{< gallery album="christmas">}}
+{{< image-gallery gallery_dir=="christmas">}}
 
 ___  
 
@@ -128,9 +128,9 @@ ___
 &nbsp  
 
 
-
+<!-- 
 ## Jun.2021
 ## First slot of HK
 impressive sights on the plane 🛬
 
-{{< gallery album="1st-slot-hk">}}
+{{< gallery album="1st-slot-hk">}} -->
