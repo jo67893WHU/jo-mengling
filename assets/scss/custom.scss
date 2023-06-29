@@ -6,9 +6,10 @@
   /* Custom styles for the gallery container */
   /* Modify the layout, spacing, etc. */
   display: grid;
-  grid-template-columns: repeat(4, 4fr);
+  grid-template-columns: repeat(4, 1fr);
   grid-gap: 10px;
 }
+
 
 
 /* Individual gallery item */
@@ -16,6 +17,7 @@
   /* Modify the shape */
   // display: block;
   // grid-template-columns: repeat(4,1fr);
+  width: calc(33.33% - 10px);
   border-radius: 5px;
   overflow: hidden;
 }
