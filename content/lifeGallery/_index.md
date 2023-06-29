@@ -3,7 +3,7 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 
 # layout: archive
-title: Gallery
+title: Life Gallery
 subtitle: Explore our photo album.
 album_cols: '4'
 # categories = ["lunch talk", "Category 2", "Category 3"]
