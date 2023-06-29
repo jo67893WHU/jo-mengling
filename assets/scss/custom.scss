@@ -5,9 +5,12 @@
 .gallery {
   /* Custom styles for the gallery container */
   /* Modify the layout, spacing, etc. */
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  grid-gap: 10px;
+  // display: grid;
+  // grid-template-columns: repeat(4, 1fr);
+  // grid-gap: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
 }
 
 
