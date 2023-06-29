@@ -51,8 +51,8 @@ gallery-item img:
   # /* Modify the shape */
   border-radius: 5px
   object-fit: cover
-  width: 100%
-  height: 100%
+  width: 50%
+  height: 50%
 
 
 
