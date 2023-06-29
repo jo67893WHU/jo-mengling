@@ -31,28 +31,28 @@ content:
 enableInlineShortcodes: true
 
 
-gallery-container:
-  # /* Custom styles for the gallery container */
-  # /* Modify the layout, spacing, etc. */
-  display: grid
-  grid-template-columns: repeat(3, 1fr)
-  grid-gap: 20px
+# gallery-container:
+#   # /* Custom styles for the gallery container */
+#   # /* Modify the layout, spacing, etc. */
+#   display: grid
+#   grid-template-columns: repeat(3, 1fr)
+#   grid-gap: 20px
 
 
-# /* Individual gallery item */
-gallery-item:
-  # /* Modify the shape */
-  border-radius: 5px
-  overflow: hidden
+# # /* Individual gallery item */
+# gallery-item:
+#   # /* Modify the shape */
+#   border-radius: 5px
+#   overflow: hidden
 
 
-# /* Image inside gallery item */
-gallery-item img:
-  # /* Modify the shape */
-  border-radius: 5px
-  object-fit: cover
-  width: 50%
-  height: 50%
+# # /* Image inside gallery item */
+# gallery-item img:
+#   # /* Modify the shape */
+#   border-radius: 5px
+#   object-fit: cover
+#   width: 50%
+#   height: 50%
 
 
 
