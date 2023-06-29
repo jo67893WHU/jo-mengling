@@ -7,7 +7,7 @@
   /* Custom styles for the gallery container */
   /* Modify the layout, spacing, etc. */
   display: grid;
-  // grid-template-columns: repeat(auto-fill, minmax(25%, 1fr));//repeat(4, 1fr);
+  grid-template-columns: repeat(4, 4fr);
   grid-gap: 10px;
 }
 

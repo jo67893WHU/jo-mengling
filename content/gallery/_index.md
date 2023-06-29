@@ -5,7 +5,7 @@
 # layout: archive
 title: Gallery
 subtitle: Explore our photo album.
-album_cols: '3'
+album_cols: '4'
 # categories = ["lunch talk", "Category 2", "Category 3"]
 # layout: album
 
