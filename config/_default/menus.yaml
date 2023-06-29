@@ -21,7 +21,7 @@ main:
     url: '#featured-post'
     weight: 40
   - name: Life Gallery
-    url: 'gallery'
+    url: 'life-gallery'
     weight: 50
   # - name: Services
   #   url: '#accomplishments'
