@@ -67,7 +67,7 @@ enableInlineShortcodes: true
 design:
   # Choose a view for the listings:
   view: showcase
-  # columns: '2'
+  columns: '4'
 
 ---
 
