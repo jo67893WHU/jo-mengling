@@ -40,7 +40,7 @@ design:
 ---
 
 ## Jan.2023 - See U again HK
-Always hard to say goodbye. Tried to mark the proof that I was here. The laugh of labers in office hour, the wishes from Prof.Qu and labers, the best view of my bedroom...
+Always hard to say goodbye. Tried to mark the proof that I was here. The laugh of labers in office hour, the wishes from Prof.Qu and labers, and the view of my bedroom
 
 {{< gallery album="see-u-again-hk">}}
 
