@@ -1,8 +1,4 @@
 
-.album {
-  column-count: 4;
-}
-
 .gallery {
   /* Custom styles for the gallery container */
   /* Modify the layout, spacing, etc. */
@@ -28,6 +24,13 @@
   // display: inherit;
   width: 100%;
   height: 100%;
+}
+
+.gallery a[data-fancybox] img {
+  height: 120px;
+  max-width: 40%;
+  display: inherit;
+  padding: 2px;
 }
 
 
