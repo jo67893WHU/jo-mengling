@@ -30,6 +30,32 @@ content:
 
 enableInlineShortcodes: true
 
+<style>
+.gallery-container {
+  /* Custom styles for the gallery container */
+  /* Modify the layout, spacing, etc. */
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 20px;
+}
+
+/* Individual gallery item */
+.gallery-item {
+  /* Modify the shape */
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+/* Image inside gallery item */
+.gallery-item img {
+  /* Modify the shape */
+  border-radius: 5px;
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+}
+</style>
+
 # gallery_item:
 #   - album: "/albums/lunch-talk"
 #     image: brave-reward.jpg
