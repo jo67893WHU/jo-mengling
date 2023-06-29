@@ -6,11 +6,11 @@
   // display: grid !important;
   grid-template-columns: repeat(4, 1fr) !important;
   //repeat(auto-fill, minmax(200px, 1fr));//repeat(3, 1fr);
-  // grid-column: calc(25%);
+
   grid-gap: 10px;
-  // display: flex;
-  // flex-wrap: wrap;
-  // justify-content: space-between;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
   // width: calc(33.33% - 10px);
 
 }
@@ -22,8 +22,8 @@
   /* Modify the shape */
   // display: block;
   // grid-template-columns: repeat(4,1fr);
-  width: calc(50% - 10px);
-  // height: calc(60% - 10px);
+  width: calc(80% - 10px);
+  // height: calc(90% - 10px);
   border-radius: 5px;
   overflow: hidden;
 }
