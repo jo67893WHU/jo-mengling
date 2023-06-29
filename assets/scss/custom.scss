@@ -14,7 +14,7 @@
 /* Individual gallery item */
 .gallery-item {
   /* Modify the shape */
-  // display: grid;
+  display: block;
   // grid-template-columns: repeat(4,1fr);
   border-radius: 5px;
   overflow: hidden;
