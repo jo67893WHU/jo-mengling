@@ -79,80 +79,39 @@ Always hard to say goodbye. Tried to mark the proof that I was here. The laugh o
 
 ___ 
 
-
-
 ## Dec.2022
 ## Lunch Talk
 Marking the moment I tried to be brave and make smart decision. signing in a lunch talking, and it is valuable, full of Prof.Qu's wisdom, encouraging and healing, much more than expected.   
-&nbsp  
-&nbsp  
-&nbsp  
-
 
 {{< gallery album="lunch-talk">}}
 
 ___  
+ 
 
-    
-&nbsp  
-&nbsp  
-&nbsp         
-   
-   
-  
-    
 ## May.2022  
 ## Mom misses me  
 My prune tree bears fruit. I planted this prune tree during the pandemic in 2019. The tree starts to bear fruit, the pandemic is still around. Maybe the pandemic will disappear when my coffee tree bear fruit. Or, maybe my coffee tree will actually bear fruit...
-&nbsp    
-&nbsp  
-&nbsp  
-&nbsp   
-
-   
-   
+  
 {{< gallery album="prune-tree" >}}
-
 ___  
-&nbsp    
-&nbsp    
-&nbsp    
-&nbsp  
-
 
 
 ## Jan.2022
 ## Happy 2022
-The Mountain, The Sea, The Sunset, The People!
-&nbsp    
+The Mountain, The Sea, The Sunset, The People!  
 
 {{< gallery album="happy2022">}}
 
 ___  
 
-&nbsp  
-&nbsp  
-&nbsp  
-
-
 
 ## Dec.2021
 ## Christmas
 Christmas tree from broccoli platter 🥦  
-&nbsp    
-&nbsp    
-&nbsp  
-&nbsp  
 
 {{< gallery album="christmas">}}
 
 ___  
-
-&nbsp  
-&nbsp  
-&nbsp  
-&nbsp  
-
 
 
 ## Jun.2021
