@@ -17,7 +17,8 @@
 .gallery-item img {
   /* Modify the shape */
   border-radius: 5px;
-  object-fit: cover;
+  /* object-fit: cover; */
+  display: inherit;
   width: 50%;
   height: 50%;
 }
