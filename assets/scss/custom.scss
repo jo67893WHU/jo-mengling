@@ -1,9 +1,11 @@
 
+
+
 .gallery {
   /* Custom styles for the gallery container */
   /* Modify the layout, spacing, etc. */
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(4, 18vh);
   grid-gap: 10px;
 }
 
