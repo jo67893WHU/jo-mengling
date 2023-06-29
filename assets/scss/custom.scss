@@ -5,16 +5,15 @@
 .gallery {
   /* Custom styles for the gallery container */
   /* Modify the layout, spacing, etc. */
-  // display: grid;
-  // grid-template-columns: repeat(4, 1fr);
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
   // grid-column: calc(25%);
-  // grid-gap: 10px;
+  grid-gap: 10px;
   // display: flex;
   // flex-wrap: wrap;
   // justify-content: space-between;
   // width: calc(33.33% - 10px);
-  column-count: 3;
-  column-gap: 20px
+
 }
 
 
