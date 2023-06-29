@@ -20,10 +20,9 @@
 /* Individual gallery item */
 .gallery-item {
   /* Modify the shape */
-  // display: block;
-  // grid-template-columns: repeat(4,1fr);
-  // width: calc(80% - 100px);
-  // height: calc(90% - 100px);
+
+  width: calc(80%);
+  height: calc(90%);
   border-radius: 5px;
   overflow: hidden;
 }
