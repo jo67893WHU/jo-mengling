@@ -45,18 +45,11 @@ design:
 
 ---
 
-## Dec.2021
-## Christmas
-Christmas tree from broccoli platter 🥦  
-
-{{< image-gallery gallery_dir="/christmas">}}
-
-<!-- 
 ## Jan.2023
 ## See U again HK
 Always hard to say goodbye. Tried to mark the proof that I was here. The laugh of labers in office hour, the wishes from Prof.Qu and labers, the best view of my bedroom...
 
-{{< image-gallery gallery_dir="see-u-again-hk">}}
+{{< gallery album="see-u-again-hk">}}
 
 ___ 
 
@@ -117,8 +110,17 @@ ___
 
 
 
+## Dec.2021
+## Christmas
+Christmas tree from broccoli platter 🥦  
+&nbsp    
+&nbsp    
+&nbsp  
+&nbsp  
 
-___ 
+{{< gallery album="christmas">}}
+
+___  
 
 &nbsp  
 &nbsp  
@@ -131,6 +133,4 @@ ___
 ## First slot of HK
 impressive sights on the plane 🛬
 
-{{< gallery album="1st-slot-hk">}} -->
-
-
+{{< gallery album="1st-slot-hk">}}
