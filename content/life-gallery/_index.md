@@ -39,23 +39,23 @@ design:
 
 ---
 
-## Jan.2023 - See U again HK
-Always hard to say goodbye. Tried to mark the proof that I was here. The laugh of labers in office hour, the wishes from Prof.Qu and labers, and the view of my bedroom
+## Jan.2023 - See U HK
+<!-- Always hard to say goodbye. Tried to mark the proof that I was here. The laugh of labers in office hour, the wishes from Prof.Qu and labers, and the view of my bedroom -->
 
 {{< gallery album="see-u-again-hk">}}
 
 ___ 
 
 ## Dec.2022 - Lunch Talk
-Marking the moment I tried to be brave and make smart decision. signing in a lunch talking, and it is valuable, full of Prof.Qu's wisdom, encouraging and healing, much more than expected.   
+<!-- Marking the moment I tried to be brave and make smart decision. signing in a lunch talking, and it is valuable, full of Prof.Qu's wisdom, encouraging and healing, much more than expected.    -->
 
 {{< gallery album="lunch-talk">}}
 
 ___  
  
 
-## May.2022 - Mom misses me  
-My prune tree bears fruit. I planted this prune tree during the pandemic in 2019. The tree starts to bear fruit, the pandemic is still around. Maybe the pandemic will disappear when my coffee tree bear fruit. Or, maybe my coffee tree will actually bear fruit...
+## May.2022 - My pandemic prune tree bears fruit  
+<!-- My prune tree bears fruit. I planted this prune tree during the pandemic in 2019. The tree starts to bear fruit, the pandemic is still around. Maybe the pandemic will disappear when my coffee tree bear fruit. Or, maybe my coffee tree will actually bear fruit... -->
   
 {{< gallery album="prune-tree" >}}
 ___  
@@ -78,6 +78,6 @@ ___
 
 
 ## Jun.2021 - First slot of HK
-impressive sights on the plane 🛬
+Sights on the plane 🛬
 David in the sky & little white boat 😶‍🌫️
 {{< gallery album="1st-slot-hk">}}
