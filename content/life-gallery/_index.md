@@ -52,6 +52,12 @@ ___
 {{< gallery album="lunch-talk">}}
 
 ___  
+
+## Nov.2022 - Hahaha moments in lab
+
+{{< gallery album="happy-lab-time">}}
+
+___  
  
 
 ## May.2022 - My pandemic prune tree bears fruit  
