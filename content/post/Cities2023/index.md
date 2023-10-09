@@ -40,7 +40,7 @@ tags:
 #   - Demo
 #   - 教程
 ---
-Our article 'COVID-19 spread prediction using socio-demographic and mobility-related data' is published in Cities. *[More...](https://doi.org/10.1016/j.cities.2023.104360)*
+Our article "COVID-19 spread prediction using socio-demographic and mobility-related data" is published in Cities. *[More...](https://doi.org/10.1016/j.cities.2023.104360)*
 
 <!-- 
 ## Overview
